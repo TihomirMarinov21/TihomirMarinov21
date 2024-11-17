@@ -6,5 +6,5 @@
 - <b>Projects in C++</b>   <br>
  
 - <b>Projects in Javascript</b> <br>
- - [Tic Tac Toe game JS code](https://github.com/TihomirMarinov21/TihomirMarinov21/blob/main/main.js ), [Html Code](https://github.com/TihomirMarinov21/TihomirMarinov21/blob/main/main.js ), [CSS Code](https://github.com/TihomirMarinov21/TihomirMarinov21/blob/main/style.css)
+   - [Tic Tac Toe game JS code](https://github.com/TihomirMarinov21/TihomirMarinov21/blob/main/main.js ), [Html Code](https://github.com/TihomirMarinov21/TihomirMarinov21/blob/main/ttt.html), [CSS Code](https://github.com/TihomirMarinov21/TihomirMarinov21/blob/main/style.css)
 - <b>Practising VBA in Access</b> <br>
