@@ -15,7 +15,7 @@ int main() {
 
 int number;
 
-cout << "Enter your numbere" << '\n';
+cout << "Enter your number" << '\n';
 cin >> number;
 
 if (number < 0) {
